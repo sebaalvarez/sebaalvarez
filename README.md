@@ -1,8 +1,4 @@
-![banner](./github-header-image.png)
-
-<h1>Bienvenido a mi Github mi nombre es Sebastián Alvarez
-  <img src="https://media.giphy.com/media/eguY9avVyt3hGzsJVj/giphy.gif?cid=ecf05e4739cf5pw0ndwfg3swaz78sbcihcrah9u77p4mxjc4&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100" align="right"/>
-</h1>
+![banner](./image/github-header-image.png)
 
 ### 🖥️ Tecnologías:
 
